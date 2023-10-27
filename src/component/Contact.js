@@ -8,16 +8,16 @@ const Contact = () => {
   <>
     <div className="my-5 px-4">
   <h2 className="fw-bold h-font text-center">Contact Us</h2>
-  <hr width="150px" height="2px" style={{margin: "0 auto;", backgroundColor:"dark;"}}/>
+ 
   
   <p className="text-center mt-2 h-font">Contact Us For Booking of Weddings <br/>
   Julus Ram Barat Kalash Yatra Etc.</p>
 </div>
 <div className="container">
   <div className="row">
-    <div className="col-lg-6 col-md-6  mb-5 px-4">
+    <div className="col-lg-6 col-md-5   mb-5 px-4">
       <div className="bg-white rounded shadow p-4 ">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7221.384232858402!2d75.8270037174225!3d25.179871776249087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396f84d55924ba33%3A0x906794d3a9ebe47b!2sDisco%20Noor%20Band%20kota!5e0!3m2!1sen!2sae!4v1697800887664!5m2!1sen!2sae" width="500" height="450" style={{border:"0;"}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe className='w-100' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7221.384232858402!2d75.8270037174225!3d25.179871776249087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396f84d55924ba33%3A0x906794d3a9ebe47b!2sDisco%20Noor%20Band%20kota!5e0!3m2!1sen!2sae!4v1697800887664!5m2!1sen!2sae" height="400" style={{border:"0;"}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
         <h5>Address</h5>
         <a href="https://goo.gl/maps/oRGV1Wh3bc577qeb7" target="_blank" rel="noreferrer" className="d-inline-block text-decoration-none text-dark mb-2"><i className="bi bi-geo-alt-fill"></i>Shop No. 91 Makbara Bazar Kota Rajasthan 324006</a>
@@ -86,7 +86,7 @@ const Contact = () => {
 
         <div class="col-lg-4 p-4">
          <h3 class="h-font fw-bold fs-3 mb-2">Disco Noor Music Band</h3>
-            <p> Disoc Noor Music Band Offering  Our Talendted Musicians and Voaclists Are Here to Set the Perfect Moood For Your Wedding. From Smoothing Meloadies During The Ceremony to Upbeat Tunes For reception, We Cover It All </p>
+            <p> Disco Noor Music Band Offering  Our Talented Musicians and Voaclists Are Here to Set the Perfect Mood For Your Wedding. From Smoothing Meloadies During The Ceremony to Upbeat Tunes For reception, We Cover It All </p>
          </div>
 
         <div class="col-lg-4 p-4">
@@ -108,7 +108,7 @@ const Contact = () => {
 </div>   
 
 
-<h6 class="text-center bg-dark text-white p-3 m-0">All Right Reserved Disco Noor Music Band</h6>
+<h6 class="text-center bg-dark text-white p-3 m-0">&copy;All Right Reserved Disco Noor Music Band</h6>
 </>
   )
 }

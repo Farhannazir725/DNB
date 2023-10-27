@@ -79,7 +79,7 @@ const Video = () => {
 
         <div class="col-lg-4 p-4">
          <h3 class="h-font fw-bold fs-3 mb-2">Disco Noor Music Band</h3>
-            <p>Disoc Noor Music Band Offering  Our Talendted Musicians and Voaclists Are Here to Set the Perfect Moood For Your Wedding. From Smoothing Meloadies During The Ceremony to Upbeat Tunes For reception, We Cover It All </p>
+            <p>Disco Noor Music Band Offering  Our Talented Musicians and Voaclists Are Here to Set the Perfect Mood For Your Wedding. From Smoothing Meloadies During The Ceremony to Upbeat Tunes For reception, We Cover It All </p>
          </div>
 
         <div class="col-lg-4 p-4">

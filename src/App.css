@@ -86,3 +86,6 @@ border: 1px solid #279e8c ;
   transform: scale(1.03);
   transition: all 0.3s;
 }
+Typewriter{
+  font-family: 'Merienda', cursive;
+}

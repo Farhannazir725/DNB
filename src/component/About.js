@@ -79,7 +79,7 @@ In the year 2000, his 3 sons took over the shop and took it to great heights, wh
 
         <div class="col-lg-4 p-4">
          <h3 class="h-font fw-bold fs-3 mb-2">Disco Noor Music Band</h3>
-            <p> Disoc Noor Music Band Offering  Our Talendted Musicians and Voaclists Are Here to Set the Perfect Moood For Your Wedding. From Smoothing Meloadies During The Ceremony to Upbeat Tunes For reception, We Cover It All </p>
+            <p> Disco Noor Music Band Offering  Our Talented Musicians and Voaclists Are Here to Set the Perfect Mood For Your Wedding. From Smoothing Meloadies During The Ceremony to Upbeat Tunes For reception, We Cover It All </p>
          </div>
 
         <div class="col-lg-4 p-4">
@@ -101,7 +101,7 @@ In the year 2000, his 3 sons took over the shop and took it to great heights, wh
 </div>   
 
 
-<h6 class="text-center bg-dark text-white p-3 m-0">All Right Reserved Disco Noor Music Band</h6>
+<h6 class="text-center bg-dark text-white p-3 m-0">&copy;All Right Reserved Disco Noor Music Band</h6>
   
     </>
   )
